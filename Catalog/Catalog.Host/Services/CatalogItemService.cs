@@ -1,8 +1,8 @@
-using Catalog.Host.Data;
-using Catalog.Host.Repositories.Interfaces;
-using Catalog.Host.Services.Interfaces;
+using Order.Host.Data;
+using Order.Host.Repositories.Interfaces;
+using Order.Host.Services.Interfaces;
 
-namespace Catalog.Host.Services;
+namespace Order.Host.Services;
 
 public class CatalogItemService : BaseDataService<ApplicationDbContext>, ICatalogItemService
 {

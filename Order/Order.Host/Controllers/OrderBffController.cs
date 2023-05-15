@@ -1,11 +1,11 @@
-using Catalog.Host.Configurations;
-using Catalog.Host.Models.Dtos;
-using Catalog.Host.Models.Response;
-using Catalog.Host.Services.Interfaces;
+using Order.Host.Configurations;
+using Order.Host.Models.Dtos;
+using Order.Host.Models.Response;
+using Order.Host.Services.Interfaces;
 using Infrastructure.Identity;
 using Microsoft.AspNetCore.Authorization;
 
-namespace Catalog.Host.Controllers;
+namespace Order.Host.Controllers;
 
 [ApiController]
 [Authorize(Policy = AuthPolicy.AllowEndUserPolicy)]

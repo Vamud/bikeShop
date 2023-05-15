@@ -1,4 +1,4 @@
-namespace Catalog.Host.Data.Entities;
+namespace Order.Host.Data.Entities;
 
 public class CatalogItem
 {

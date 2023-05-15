@@ -20,7 +20,7 @@ namespace Order.Host.Data.EntityConfigurations
                 .IsRequired();
 
             builder.HasOne(f => f.Order)
-                .WithMany(f => f.Items)
+                .WithMany()
                 .HasForeignKey(f => f.OrderId);
         }
     }

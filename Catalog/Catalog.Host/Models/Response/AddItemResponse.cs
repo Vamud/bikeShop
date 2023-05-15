@@ -1,4 +1,4 @@
-namespace Catalog.Host.Models.Response;
+namespace Order.Host.Models.Response;
 
 public class AddItemResponse<T>
 {

@@ -1,7 +1,7 @@
-using Catalog.Host.Data.Entities;
-using Catalog.Host.Data.EntityConfigurations;
+using Order.Host.Data.Entities;
+using Order.Host.Data.EntityConfigurations;
 
-namespace Catalog.Host.Data;
+namespace Order.Host.Data;
 
 public class ApplicationDbContext : DbContext
 {

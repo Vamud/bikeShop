@@ -1,6 +1,6 @@
 using Infrastructure.Identity;
 
-namespace Catalog.Host.Configurations;
+namespace Order.Host.Configurations;
 
 public class CatalogConfig
 {

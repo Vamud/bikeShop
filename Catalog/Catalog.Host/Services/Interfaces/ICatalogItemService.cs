@@ -1,4 +1,4 @@
-namespace Catalog.Host.Services.Interfaces;
+namespace Order.Host.Services.Interfaces;
 
 public interface ICatalogItemService
 {

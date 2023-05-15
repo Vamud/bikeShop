@@ -1,11 +1,11 @@
-using Catalog.Host.Data;
-using Catalog.Host.Models.Dtos;
-using Catalog.Host.Models.Enums;
-using Catalog.Host.Models.Response;
-using Catalog.Host.Repositories.Interfaces;
-using Catalog.Host.Services.Interfaces;
+using Order.Host.Data;
+using Order.Host.Models.Dtos;
+using Order.Host.Models.Enums;
+using Order.Host.Models.Response;
+using Order.Host.Repositories.Interfaces;
+using Order.Host.Services.Interfaces;
 
-namespace Catalog.Host.Services;
+namespace Order.Host.Services;
 
 public class CatalogService : BaseDataService<ApplicationDbContext>, ICatalogService
 {

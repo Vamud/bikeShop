@@ -1,7 +1,7 @@
-using Catalog.Host.Data;
+using Order.Host.Data;
 using Order.Host.Data.Entities;
 
-namespace Catalog.Host.Repositories.Interfaces;
+namespace Order.Host.Repositories.Interfaces;
 
 public interface IOrderItemRepository
 {

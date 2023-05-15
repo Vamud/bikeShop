@@ -1,4 +1,4 @@
-﻿namespace Catalog.Host.Models.Requests
+﻿namespace Order.Host.Models.Requests
 {
     public class BasketItemRequest
     {

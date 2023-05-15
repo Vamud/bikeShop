@@ -1,4 +1,4 @@
-namespace Catalog.Host.Data;
+namespace Order.Host.Data;
 
 public class PaginatedItems<T>
 {

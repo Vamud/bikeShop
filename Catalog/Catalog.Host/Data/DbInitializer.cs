@@ -1,6 +1,6 @@
-using Catalog.Host.Data.Entities;
+using Order.Host.Data.Entities;
 
-namespace Catalog.Host.Data;
+namespace Order.Host.Data;
 
 public static class DbInitializer
 {

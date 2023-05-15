@@ -1,6 +1,6 @@
-using Catalog.Host.Data.Entities;
+using Order.Host.Data.Entities;
 
-namespace Catalog.Host.Data.EntityConfigurations;
+namespace Order.Host.Data.EntityConfigurations;
 
 public class CatalogBrandEntityTypeConfiguration
     : IEntityTypeConfiguration<CatalogBrand>

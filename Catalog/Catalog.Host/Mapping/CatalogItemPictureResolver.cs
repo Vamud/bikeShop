@@ -1,8 +1,8 @@
-using Catalog.Host.Configurations;
-using Catalog.Host.Data.Entities;
-using Catalog.Host.Models.Dtos;
+using Order.Host.Configurations;
+using Order.Host.Data.Entities;
+using Order.Host.Models.Dtos;
 
-namespace Catalog.Host.Mapping;
+namespace Order.Host.Mapping;
 
 public class CatalogItemPictureResolver<T> : IMemberValueResolver<CatalogItem, T, string, object>
 {

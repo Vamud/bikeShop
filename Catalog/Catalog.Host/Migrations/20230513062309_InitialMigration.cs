@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace Catalog.Host.Migrations
+namespace Order.Host.Migrations
 {
     public partial class InitialMigration : Migration
     {

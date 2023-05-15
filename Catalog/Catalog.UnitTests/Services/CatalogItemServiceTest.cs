@@ -1,7 +1,7 @@
 using System.Threading;
-using Catalog.Host.Data.Entities;
+using Order.Host.Data.Entities;
 
-namespace Catalog.UnitTests.Services;
+namespace Order.UnitTests.Services;
 
 public class CatalogItemServiceTest
 {

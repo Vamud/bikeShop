@@ -1,8 +1,8 @@
-using Catalog.Host.Models.Dtos;
-using Catalog.Host.Models.Enums;
-using Catalog.Host.Models.Response;
+using Order.Host.Models.Dtos;
+using Order.Host.Models.Enums;
+using Order.Host.Models.Response;
 
-namespace Catalog.Host.Services.Interfaces;
+namespace Order.Host.Services.Interfaces;
 
 public interface ICatalogService
 {

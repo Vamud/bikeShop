@@ -1,8 +1,8 @@
-using Catalog.Host.Data;
-using Catalog.Host.Data.Entities;
-using Catalog.Host.Models.Dtos;
+using Order.Host.Data;
+using Order.Host.Data.Entities;
+using Order.Host.Models.Dtos;
 
-namespace Catalog.Host.Repositories.Interfaces;
+namespace Order.Host.Repositories.Interfaces;
 
 public interface ICatalogItemRepository
 {

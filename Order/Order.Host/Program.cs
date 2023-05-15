@@ -1,10 +1,10 @@
-using Catalog.Host;
-using Catalog.Host.Configurations;
-using Catalog.Host.Data;
-using Catalog.Host.Repositories;
-using Catalog.Host.Repositories.Interfaces;
-using Catalog.Host.Services;
-using Catalog.Host.Services.Interfaces;
+using Order.Host;
+using Order.Host.Configurations;
+using Order.Host.Data;
+using Order.Host.Repositories;
+using Order.Host.Repositories.Interfaces;
+using Order.Host.Services;
+using Order.Host.Services.Interfaces;
 using Infrastructure.Extensions;
 using Infrastructure.Filters;
 using Microsoft.OpenApi.Models;

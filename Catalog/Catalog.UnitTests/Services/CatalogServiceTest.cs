@@ -1,9 +1,9 @@
 using System.Threading;
-using Catalog.Host.Data.Entities;
-using Catalog.Host.Models.Dtos;
-using Catalog.Host.Models.Response;
+using Order.Host.Data.Entities;
+using Order.Host.Models.Dtos;
+using Order.Host.Models.Response;
 
-namespace Catalog.UnitTests.Services;
+namespace Order.UnitTests.Services;
 
 public class CatalogServiceTest
 {
